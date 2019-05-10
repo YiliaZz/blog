@@ -212,7 +212,7 @@ section .timeline dd:nth-of-type(1) {
 section .timeline > li::before {
 	content: '';
 	display: inline-block;
-	height: 45px;
+	height: 40px;
 	width: 4px;
 	background-color: #3B58A4;
 	position: absolute;
@@ -323,7 +323,7 @@ footer .part2 {
 footer .footer-button{
     min-width：200px；
 	position: absolute;
-	margin-left:50%;
+	margin-left:57%;
 	transform: translate(-50% );
 }
 footer .footer-button > li {
