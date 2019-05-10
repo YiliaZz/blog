@@ -212,7 +212,7 @@ section .timeline dd:nth-of-type(1) {
 section .timeline > li::before {
 	content: '';
 	display: inline-block;
-	height: 50px;
+	height: 45px;
 	width: 4px;
 	background-color: #3B58A4;
 	position: absolute;
